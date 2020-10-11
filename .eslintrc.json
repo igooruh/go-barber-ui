@@ -38,6 +38,7 @@
       "import/prefer-default-export": "off",
       "no-unused-expressions": "off",
       "no-use-before-define":"off",
+      "eslint-disable-next-line": "off",
       "@typescript-eslint/ban-types": "off",
       "@typescript-eslint/explicit-function-return-type": [
         "error",
